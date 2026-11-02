@@ -46,11 +46,8 @@ Design a C++ program for a Smart Farm Management System that manages data relate
 | Static members | `static int count` tracks the number of crop objects |
 | Exception handling | `invalid_argument`, `runtime_error`, with `try/catch` in `main` |
 | I/O formatting | `setw`, `setprecision`, `fixed`, `left` |
+
 Advisory (abstract)
 └── Crop
 ├── CerealCrop      (fertilizerType)
 └── VegetableCrop   (irrigationFreq, 10% post-harvest loss)
-
----
-
-## 🏗️ Class Structure
