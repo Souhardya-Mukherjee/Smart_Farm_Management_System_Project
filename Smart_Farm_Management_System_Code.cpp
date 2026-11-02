@@ -21,7 +21,7 @@ protected:
     double yieldPerAcre;  
     static int count;     
 public:
-    // Constructor overloading
+    
     Crop() {
         name = "Unknown";
         area = 0;
